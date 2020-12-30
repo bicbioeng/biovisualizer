@@ -3,7 +3,7 @@ bio
 matplotlib
 pandas
 scipy
-PIL
+pillow
 plotly
 scikit-learn
 ipywidgets

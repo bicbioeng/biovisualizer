@@ -3,6 +3,8 @@ bio
 matplotlib
 pandas
 scipy
+PIL
+plotly
 scikit-learn
 ipywidgets
 matplotlib

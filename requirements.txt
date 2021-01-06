@@ -11,3 +11,4 @@ matplotlib
 fastcluster
 statsmodels==0.11.1
 clustergrammer2==0.17.0
+https://data.broadinstitute.org/ccle/CCLE_GlobalChromatinProfiling_20181130.csv
